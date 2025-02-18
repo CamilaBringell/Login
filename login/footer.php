@@ -1,3 +1,3 @@
 <footer>
-        &copy; Desenvolvido por Heraldo - O melhor de todos!
+        &copy; Desenvolvido por camis!
     </footer>
